@@ -29,7 +29,7 @@ nav_order: 6
 
 ---
 
-## 🧠 Foundational Knowledge
+## Foundational Knowledge
 
 These resources are essential for building a solid understanding of the core principles of Machine Learning.
 
@@ -47,7 +47,7 @@ These resources are essential for building a solid understanding of the core pri
 
 ---
 
-## 🔥 Deep Learning Fundamentals
+## Deep Learning Fundamentals
 
 Resources to master the core concepts of modern deep learning.
 
@@ -64,7 +64,7 @@ Resources to master the core concepts of modern deep learning.
 
 ---
 
-## 🗣️ Large Language Models (LLMs)
+## Large Language Models (LLMs)
 
 The epicenter of the current AI revolution. This section is broken down into key areas.
 
@@ -107,7 +107,7 @@ The epicenter of the current AI revolution. This section is broken down into key
 
 ---
 
-## 🤖 AI Agents & Autonomous Systems
+## AI Agents & Autonomous Systems
 
 Building systems that can reason, plan, and act to accomplish goals.
 
@@ -120,7 +120,7 @@ Building systems that can reason, plan, and act to accomplish goals.
 
 ---
 
-## 🎲 Reinforcement Learning (RL)
+## Reinforcement Learning (RL)
 
 Teaching agents to make optimal decisions through trial and error.
 
@@ -135,7 +135,7 @@ Teaching agents to make optimal decisions through trial and error.
 
 ---
 
-## 📊 Recommendation Systems
+## Recommendation Systems
 
 The engines behind content discovery on platforms like Netflix, YouTube, and Amazon.
 
@@ -148,7 +148,7 @@ The engines behind content discovery on platforms like Netflix, YouTube, and Ama
 
 ---
 
-## ⚙️ MLOps & Deployment
+## MLOps & Deployment
 
 The art of taking models from prototype to production reliably and efficiently.
 
@@ -160,7 +160,7 @@ The art of taking models from prototype to production reliably and efficiently.
 
 ---
 
-## 📈 Convex Optimization
+## Convex Optimization
 
 The mathematical foundation for many machine learning algorithms, crucial for understanding how and why they work.
 
@@ -173,7 +173,7 @@ The mathematical foundation for many machine learning algorithms, crucial for un
 
 ---
 
-## 🗞️ Essential Blogs & Newsletters
+## Essential Blogs & Newsletters
 
 Stay up-to-date with the latest breakthroughs and trends.
 
