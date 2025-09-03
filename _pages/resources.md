@@ -16,10 +16,10 @@ nav_order: 6
 1.  [ foundational knowledge](#-foundational-knowledge)
 2.  [Deep Learning Fundamentals](#-deep-learning-fundamentals)
 3.  [Large Language Models (LLMs)](#-large-language-models-llms)
-    * [LLM Concepts & Theory](#llm-concepts--theory)
-    * [LLM Training & Fine-Tuning](#llm-training--fine-tuning)
-    * [LLM Inference & Optimization](#llm-inference--optimization)
-    * [LLM Application Development](#llm-application-development)
+    * [Concepts & Theory](#llm-concepts--theory)
+    * [Training & Fine-Tuning](#llm-training--fine-tuning)
+    * [Inference & Optimization](#llm-inference--optimization)
+    * [Application Development](#llm-application-development)
 4.  [AI Agents & Autonomous Systems](#-ai-agents--autonomous-systems)
 5.  [Reinforcement Learning (RL)](#-reinforcement-learning-rl)
 6.  [Recommendation Systems](#-recommendation-systems)
@@ -30,8 +30,6 @@ nav_order: 6
 ---
 
 ## Foundational Knowledge
-
-These resources are essential for building a solid understanding of the core principles of Machine Learning.
 
 * **Courses:**
     * [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning) - The classic introductory course that has started the journey for millions of developers.
