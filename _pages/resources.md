@@ -2,18 +2,16 @@
 layout: page
 permalink: /resources/
 title: resources
-description: Materials for courses you taught. Replace this text with your description.
+description: You are what you read !
 nav: true
 nav_order: 6
 ---
 
-# The Ultimate AI & Machine Learning Resource List
-
-A curated collection of the most useful resources for anyone interested in Artificial Intelligence, from beginners to advanced practitioners. This list covers foundational theory, cutting-edge research, and the essential tools to build intelligent systems.
+# Useful (Hopefully) AI/ML Resource List
 
 ---
 
-## 目录 (Table of Contents)
+## (Table of Contents)
 
 1.  [ foundational knowledge](#-foundational-knowledge)
 2.  [Deep Learning Fundamentals](#-deep-learning-fundamentals)
