@@ -7,13 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-Of course\! Here is a comprehensive and well-structured list of AI resources in Markdown format. You can copy and paste this directly onto your webpage or into a `.md` file.
-
-This list covers the categories you mentioned and expands on them to provide a holistic view of the AI landscape, from foundational knowledge to state-of-the-art applications.
-
------
-
-```markdown
 # The Ultimate AI & Machine Learning Resource List
 
 A curated collection of the most useful resources for anyone interested in Artificial Intelligence, from beginners to advanced practitioners. This list covers foundational theory, cutting-edge research, and the essential tools to build intelligent systems.
@@ -192,6 +185,3 @@ Stay up-to-date with the latest breakthroughs and trends.
 * **[Hugging Face Blog](https://huggingface.co/blog)**: Updates, tutorials, and insights from the team at the heart of the open-source LLM movement.
 
 ---
-
-_This list is a living document. Feel free to suggest additions or improvements!_
-```
